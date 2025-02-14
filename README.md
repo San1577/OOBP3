@@ -1,14 +1,14 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/LIyt75nV)
-# OOB-Week3-Assignment
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/JVaKQfld)
+# OOBP Assignment nr. 5 - DOM Operations
 
-Week 3 assignments for the Object Oriented Browser Programming course.
+This assignment is about training DOM operations with javascript.
 
-## How to do this in steps
+## Usage
 
-1. Clone the repository to your local machine
-2. execute `npm install` in the local repository root folder to install dependencies
-3. Open week3.ts file and implement the tasks described there.
-4. Run tests to validate your solutions by executing `npm run test`
-5. Commit your work
-6. Push back to github
-7. If autograding tests pass (and they should pass if they passed on your local machine) you are done
+* Clone the repository.
+* Install dependecies with `npm install`
+* Open the source.js file in the httpServerRoot folder and write your solutions to that file
+* Test your implementation with `npm run test`
+* When your implementation passes the tests commit your changes and `git push` to github assignment repository
+
+You can view the results locally with `npm run view` and then open browser with "http://localhost:8080" address or by directly opening the index.html file in browser from the httpServerRoot folder.
